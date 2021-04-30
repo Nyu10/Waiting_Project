@@ -169,7 +169,7 @@ function showText(){
 
 let questions = [
   "Please Wait Again for Happiness",
-"Maybe you'll be happier with another partner",
+"Maybe you'll be happier waiting for another spouse",
 "Is the waiting worth it?",
-"Be patient, One more time",
+"Be patient, One more time and you'll be happy",
 "My friend Lin waited a long time also. For love, life, freedom, happiness, and his marriage"]
